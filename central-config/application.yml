@@ -12,7 +12,7 @@ jhipster:
     security:
         authentication:
             jwt:
-                secret: my-secret-token-to-change-in-production
+                secret: Synov@FRcootSecret@Key2017!@//!
 
 # Enable /management/logfile endpoint for all apps
 logging:
